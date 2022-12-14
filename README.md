@@ -4,14 +4,14 @@ Build a Classification Model for Drug Trials Dataset
 The objective of this project is to build a Classification Model that classifies the side effects of a particular drug by age, gender and race.
 
 Total Effort (hrs.)	: 225 hours
+
 Project Language : 	Python	
+
 Tools used: Google Research Collab , Jupyter Notebook 
+
 Library : Pandas , NumPy, Support vector machines (SVMs) , matplotlib.pyplot 
 
-
-ABSTRACT
-
-For a pharmaceutical agency its very important to keep track of their drugs and their effectiveness and to tabulate all drugs that they have sold and account for each drug's effectiveness. This data has been collected over the years and it contains data points such as the drug's name, reviews by customers, popularity , use cases of the drug, and most importantly the side effects contributed by the drug. Numerous medicines that had already been approved for usage had to be taken off the market due to unforeseen side effects.
+Abstract : 
 
 The objective of this project is to build a classification model that classifies the side effects of a particular drug by age, gender and race which will help to identify potential side effects and minimizing risks during the drug research process.
 
